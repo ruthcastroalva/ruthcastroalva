@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @ruthcastroalva
 - 👀 I’m interested in design, digital experience, innovation
 - 🌱 I’m currently learning about marketing and coding.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me on linkedind: https://www.linkedin.com/in/ruth-castro-alva/
 
 <!---
 ruthcastroalva/ruthcastroalva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
